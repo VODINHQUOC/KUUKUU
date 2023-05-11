@@ -1,2 +1,3 @@
 # KUUKUU
-<a href="http://www.example.com">Click me to visit example.com</a>
+[<img src="https://example.com/icon.png" width="20" height="20"> Visit example.com](https://www.example.com)
+
