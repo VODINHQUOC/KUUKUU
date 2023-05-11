@@ -1,3 +1,5 @@
 # KUUKUU
-[<img src="https://example.com/icon.png" width="20" height="20"> Visit example.com](https://www.example.com)
+<a href="https://www.linkedin.com/in/vodinhquoc/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
 
