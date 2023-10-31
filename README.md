@@ -8,6 +8,6 @@
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://doi.org/10.3934/mbe.2022033">
-    <img src="https://img.shields.io/badge/article-reinforcement%20learning-blue">
+    <img src="https://img.shields.io/badge/Article-Reinforcement%20Learning-blue">
 </a>  
 
